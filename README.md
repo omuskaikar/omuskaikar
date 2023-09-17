@@ -1,10 +1,13 @@
 ### 
-[![MasterHead](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)](https://omuskaikar.io)
+[![MasterHead](https://csshint.com/wp-content/uploads/2020/01/CSS-Animated-Backgrounds-2.gif)](https://omuskaikar.io)
+
 
 
 <h1 align="center">Hi 👋, I'm Om Uskaikar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omuskaikar&label=Profile%20views&color=0e75b6&style=flat" alt="omuskaikar" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcngxYjNhY3lxeDgwNzA2ejB3MzM4cnVzeGI4bTNudDNxajJrbWVibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif")>
+
 
 - 🌱 I’m currently learning **java**
 
@@ -19,7 +22,6 @@
 
 
 
-
 <h3 align="left">My Tech Stack:</h3>
 <p align="left">
         <h4></h4>
@@ -30,7 +32,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="cp" width="50" height="50"/> 
         </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" alt="cp" width="50" height="50"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="cp" width="50" height="50"/> 
         </a>
         <h4></h4>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -49,16 +51,10 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="cp" width="50" height="50"/> 
         </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="cp" width="50" height="50"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="cp" width="50" height="50"/> 
         </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="cp" width="50" height="50"/> 
-        </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="cp" width="50" height="50"/> 
-        </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="cp" width="50" height="50"/> 
         </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="cp" width="50" height="50"/> 
