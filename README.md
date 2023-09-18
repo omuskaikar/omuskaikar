@@ -1,7 +1,4 @@
 ### 
-[![MasterHead](https://csshint.com/wp-content/uploads/2020/01/CSS-Animated-Backgrounds-2.gif)](https://omuskaikar.io)
-
-
 
 <h1 align="center">Hi 👋, I'm Om Uskaikar</h1>
 <h3 align="center">A passionate software developer from India</h3>
